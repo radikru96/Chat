@@ -11,7 +11,7 @@
 // #include <netinet/in.h>
 // #include <arpa/inet.h>
 // char *program_name;
-// #include "../../TCP_IP/skel/skel.h"
+// #include "skel.h"
 // #include "structures.h"
 #include <ncurses.h>
 #include <vector>

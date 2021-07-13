@@ -20,7 +20,7 @@
 #define NLISTEN 1
 char *program_name;
 #include "libserver.h"
-#include "../../TCP_IP/skel/skel.h"
+#include "skel.h"
 using namespace std;
 static void server( dbaccess &db, SOCKET s )
 {
